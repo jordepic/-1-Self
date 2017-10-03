@@ -1,0 +1,72 @@
+#topbar {
+    background: linear-gradient(to bottom right, #00cc00 0%, #00cc99 100%);
+    margin-top: 0px;
+    height: 100px;
+}
+
+
+
+
+
+h1{
+	text-align: center;
+	font-size: 100px;
+}
+
+#buttonbar{
+	margin-top: 75px;
+}
+
+#fun{
+	margin-top: 100px;
+	font-size: 35px;
+	font-weight: 20px;
+}
+
+p{
+	text-align: center;
+	font-family: arial;
+	font-size: 25px;
+	margin-right: 400px;
+	margin-left: 400px;
+}
+
+#Message {
+	margin-top: 100px;
+}
+
+#instruction{
+ margin-top: 200px;
+}
+
+.welcomebutton{
+	font-size: 30px;
+	font-family: arial;
+	background-color: #48ba2e;
+	color: black;
+	display: inline-block;
+	border-radius: 10px;
+	padding-right: 25px;
+	padding-left: 25px;
+	text-decoration: none;
+}
+
+a: hover{
+	color: white;
+}
+
+#Find_help{
+	margin-left: 30px;
+
+}
+
+#Become_A_Consultant{
+	margin-left: 30px;
+}
+
+
+
+#About_us{
+	margin-left: 630px;
+	
+}
