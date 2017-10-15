@@ -14,11 +14,11 @@ h1{
 }
 
 #buttonbar{
-	margin-top: 75px;
+	margin-top: 25px;
 }
 
 #fun{
-	margin-top: 100px;
+	margin-top: 50px;
 	font-size: 35px;
 	font-weight: 20px;
 }
@@ -36,14 +36,14 @@ p{
 }
 
 #instruction{
- margin-top: 200px;
+ margin-top: 100px;
 }
 
 .welcomebutton{
 	font-size: 30px;
 	font-family: arial;
 	background-color: #48ba2e;
-	color: black;
+	
 	display: inline-block;
 	border-radius: 10px;
 	padding-right: 25px;
@@ -51,9 +51,7 @@ p{
 	text-decoration: none;
 }
 
-a: hover{
-	color: white;
-}
+
 
 #Find_help{
 	margin-left: 30px;
@@ -67,6 +65,7 @@ a: hover{
 
 
 #About_us{
-	margin-left: 630px;
+	margin-left: 400px;
 	
 }
+
