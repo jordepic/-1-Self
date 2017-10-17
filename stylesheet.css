@@ -36,30 +36,31 @@ p{
 }
 
 #instruction{
- margin-top: 100px;
+ margin-top: 50px;
 }
 
 .welcomebutton{
-	font-size: 30px;
-	font-family: arial;
+	
+
 	background-color: #48ba2e;
 	
 	display: inline-block;
-	border-radius: 10px;
-	padding-right: 25px;
-	padding-left: 25px;
+	border-radius: 20px;
+	padding-right: 15px;
+	padding-left: 15px;
 	text-decoration: none;
+	
 }
 
 
 
 #Find_help{
-	margin-left: 30px;
+	margin-right: 400px;
 
 }
 
 #Become_A_Consultant{
-	margin-left: 30px;
+	margin: auto;
 }
 
 
@@ -68,4 +69,13 @@ p{
 	margin-left: 400px;
 	
 }
+
+.buttontext{
+	color:white;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+}
+
 
