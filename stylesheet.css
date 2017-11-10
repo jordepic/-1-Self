@@ -1,20 +1,22 @@
-#topbar {
-    background: linear-gradient(to bottom right, #00cc00 0%, #00cc99 100%);
-    margin-top: 0px;
-    height: 100px;
+
+
+body{
+	background: linear-gradient(to bottom right, #0033cc 0%, #00cc99 100%);
 }
 
 
-
-
-
-h1{
+#logo{
 	text-align: center;
 	font-size: 100px;
+	color: white;
 }
 
 #buttonbar{
 	margin-top: 25px;
+	margin-bottom: 100px;
+	margin-right: 500px;
+	margin-left: 500px;
+
 }
 
 #fun{
@@ -29,6 +31,7 @@ p{
 	font-size: 25px;
 	margin-right: 400px;
 	margin-left: 400px;
+	color: white;
 }
 
 #Message {
@@ -40,22 +43,15 @@ p{
 }
 
 .welcomebutton{
-	
-
-	background-color: #48ba2e;
-	
 	display: inline-block;
-	border-radius: 20px;
+	border: 2px outset #b2b9c4;
+	border-radius: 10px;
 	padding-right: 15px;
 	padding-left: 15px;
-	text-decoration: none;
-	
+	text-decoration: none;	
 }
 
-
-
 #Find_help{
-	margin-right: 400px;
 
 }
 
@@ -63,19 +59,20 @@ p{
 	margin: auto;
 }
 
-
-
 #About_us{
-	margin-left: 400px;
+	
 	
 }
 
 .buttontext{
 	color:white;
-	text-decoration: none;
+	
 	font-family: arial;
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: bold;
 }
 
-
+.buttontext:hover{
+	text-decoration: none;
+	color:black;
+}
